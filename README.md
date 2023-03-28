@@ -12,6 +12,7 @@ certificates:
     "KO-MEK - Web Design",
     "KO-MEK - Computer Programming Techniques",
     "KO-MEK - Basic Robotics and Coding",
+    "Turkcell Geleceği Yazanlar - Web Programming 101"
   ]
 interests:
   [
