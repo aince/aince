@@ -1,6 +1,5 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=aince&color=blueviolet)
 [![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://aince.github.io)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/alperenns_)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/alperen-ince/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/aince) 
 ```yaml
